@@ -1,0 +1,6 @@
+{
+  "name": "Eze Clinics",
+  "description": "Premium Dental Implants landing page for Eze Clinics, featuring real patient case studies, step-by-step implant procedures, and convenient consultation booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
